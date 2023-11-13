@@ -1,0 +1,101 @@
+/* Punto # 4*/
+.blue{
+    color: blue;
+    font-size: 20px;
+}
+
+.red{
+    color: red;
+    font-size: 20px;
+}
+/* Punto # 5*/
+.parrafo{
+    margin-right: 300px;
+    margin-left: 300px;
+    text-align: justify;
+}
+
+.letraVerde{
+    color: green;
+    text-decoration-line: underline;
+}
+
+.letRoja{
+    color: red;
+}
+
+.letraLineas{
+    text-decoration-line: overline;
+}
+
+.letraGrande{
+    font-size: 30px;
+}
+
+.letraAzul{
+    color: blue;
+    font-size: 18px;
+}
+
+.letraRoja{
+    color: red;
+    text-decoration-line: underline;
+    font-size: 18px;
+}
+
+/* Punto # 6*/
+.tamañoLista{
+    font-size: 30px;
+}
+
+.negrilla{
+    font-weight: bold;
+}
+
+.amarillo{
+    color: yellow;
+}
+
+/* Punto # 7y8*/
+.menu{
+    background-color: thistle;
+    width: 38%;
+    height: 50px;
+}
+
+.menu1{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    margin: 9px 25px 0px 25px;
+    padding: 6px;
+    display: inline-block;
+}
+
+a.menu1:hover{
+    background-color: #1100ff;
+    cursor: pointer;
+}
+/* Punto # 9*/
+
+.tabla{
+    background-color: rgb(229, 255, 0);
+    border-collapse:collapse ;
+    border-bottom: dotted #ff0000 ;
+    margin-top: 20px;
+    width: 70%;
+}
+.th{
+    color: #ff0000;
+
+}
+td, tr{
+    border: 1px dotted #000000;
+    border-color: #000000;
+}
+
+.encabezado{
+    color: red;
+}
+
+
